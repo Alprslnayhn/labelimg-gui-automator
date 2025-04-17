@@ -26,8 +26,8 @@ A lightweight Python script to automate repetitive LabelImg annotation tasks usi
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/labelimg-macro.git
-   cd labelimg-macro
+   git clone https://github.com/Alprslnayhn/labelimg-gui-automator.git
+   cd labelimg-gui-automator
    ```
 
 2. **Create & activate a virtual environment (optional but recommended)**  
