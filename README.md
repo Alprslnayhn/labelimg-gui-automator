@@ -87,22 +87,3 @@ A lightweight Python script to automate repetitive LabelImg annotation tasks usi
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
-
-## ✉️ Contact
-
-Created by **Your Name** – feel free to open an issue or submit a PR!
-
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
-```
-
-**Next Steps:**
-
-1. Rename placeholders (`yourusername`, **Your Name**, email) to your own.
-2. Commit to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add professional README"
-   git push origin main
-   ```
-3. Enjoy a polished project landing page!
