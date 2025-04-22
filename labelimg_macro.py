@@ -93,3 +93,20 @@ if __name__ == "__main__":
     stop_btn.grid(row=0, column=1, padx=5)
 
     root.mainloop()
+
+
+if not focus_labelimg():
+        exit(1)
+
+    count = int(input("Kaç kere tekrarlansın? "))
+    for i in range(1, count+1):
+        # (no need to re‑focus on every iteration unless you lose focus)
+        pyautogui.press('a')
+        pyautogui.hotkey('ctrl', 'e')
+        pyautogui.press('s')
+        pyautogui.press('o')
+        pyautogui.press('down', presses=2, interval=0.05)
+        pyautogui.press('enter', presses=2, interval=0.05)
+        pyautogui.hotkey('ctrl', 's')
+        pyautogui.press('d')
+        time.sleep(0.2)
