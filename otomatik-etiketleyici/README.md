@@ -132,20 +132,3 @@ Open any GUI application and press the defined hotkey to automate your defined a
 
 ---
 
-## 🧠 Author
-
-Made with ❤️ by \[Your Name]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-If you provide your GitHub username or intended customizations (script name, key to bind, etc.), I can personalize the README further.
-```
-
